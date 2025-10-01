@@ -5,9 +5,9 @@ import { Analytics } from '@vercel/analytics/next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Peronalized Learning',
-  description: 'Created with v0',
-  generator: 'v0.app',
+  title: 'Personalized Learning',
+  description: 'Created by KSHITIJ',
+  generator: 'KSHITIJ',
 }
 
 export default function RootLayout({
